@@ -1,0 +1,1 @@
+<!-- https://obikastanya.medium.com/create-modularized-and-scalable-flask-application-using-blueprint-15a71e2bd8a2 -->
