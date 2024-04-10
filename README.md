@@ -1,1 +1,2 @@
 <!-- https://obikastanya.medium.com/create-modularized-and-scalable-flask-application-using-blueprint-15a71e2bd8a2 -->
+<!-- https://dev.to/theakira/deploy-de-uma-aplicacao-flask-com-pythonanywhere-5ddk -->
