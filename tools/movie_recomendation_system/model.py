@@ -3,7 +3,7 @@ import joblib
 import sys
 
 print(sys.path)
-movies, cousine_sim = joblib.load('/home/eutiagovski/mysite/tools/movie_recomendation_system/ai_models/model_v1.joblib')
+movies, cousine_sim = joblib.load('./tools/movie_recomendation_system/ai_models/model_v1.joblib')
 
 
 class MovieRecomendation:

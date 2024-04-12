@@ -8,7 +8,7 @@ class MovieRecomendationController:
 
     def renderIndex(self):
         html = ''
-        with open('/home/eutiagovski/mysite/tools/movie_recomendation_system/templates/index.html', encoding='utf-8') as f:
+        with open('./tools/movie_recomendation_system/templates/index.html', encoding='utf-8') as f:
             for i in f:
                 html += i
         html = html.encode('utf-8')
